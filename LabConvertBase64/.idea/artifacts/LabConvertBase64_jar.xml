@@ -1,0 +1,35 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LabConvertBase64:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LabConvertBase64_jar</output-path>
+    <root id="archive" name="LabConvertBase64.jar">
+      <element id="module-output" name="LabConvertBase64" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Bibliotecas Java/poi-5.2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Bibliotecas Java/poi-ooxml-5.2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Bibliotecas Java/commons-csv-1.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Bibliotecas Java/commons-lang3-3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Bibliotecas Java/poi-ooxml-3.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Bibliotecas Java/dom4j-1.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Bibliotecas Java/poi-3.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Bibliotecas Java/org-apache-commons-codec.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Bibliotecas Java/poi-ooxml-schemas-3.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Bibliotecas Java/log4j-api-2.18.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Bibliotecas Java/org.json.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Bibliotecas Java/xmlbeans.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Bibliotecas Java/curvesapi-1.07.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Bibliotecas Java/commons-math3-3.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Bibliotecas Java/commons-lang-2.4-1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Bibliotecas Java/commons-io-2.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Bibliotecas Java/commons-compress-1.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Bibliotecas Java/commons-collections4-4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Bibliotecas Java/commons-codec-1.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Bibliotecas Java/com.liferay.dynamic.data.mapping.service-5.0.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Bibliotecas Java/com.fasterxml.jackson.databind.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Bibliotecas Java/com.fasterxml.jackson.core.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Bibliotecas Java/apache-poi-ooxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Bibliotecas Java/apache-commons.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Bibliotecas Java/ant-1.10.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Bibliotecas Java/opencsv-5.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Bibliotecas Java/filechooser-1.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
